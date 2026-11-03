@@ -1,0 +1,7 @@
+bola-index 1
+serial 2026110301
+date 2026-11-03
+
+component firmware
+  version 2366 firmware-2366 current
+  file activehead.bin 347264 sha256:50f0734c453658579fbc4d27d26cb127731e9416c9652ea0c22f0c6470a14528
